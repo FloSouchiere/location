@@ -1,0 +1,6 @@
+fr/campus/location/LocationApplication.class
+fr/campus/location/tests/Tests.class
+fr/campus/location/dao/VehicleDaoImpl.class
+fr/campus/location/model/Vehicle.class
+fr/campus/location/web/controller/VehicleController.class
+fr/campus/location/dao/VehicleDao.class
